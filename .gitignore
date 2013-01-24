@@ -1,4 +1,4 @@
-/app/Config
-/app/tmp
+/app/Config/email.php
+/app/Config/database.php
 /lib/Cake/Console/Templates/skel/tmp/
 *~

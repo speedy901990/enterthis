@@ -1,0 +1,330 @@
+2012-11-07 19:31:01 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:31:41 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:31:56 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:32:59 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:33:07 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:36:26 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:36:55 Notice: Notice (8): Undefined variable: pages in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 8]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:41:30 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:43:21 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:43:23 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:43:25 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:43:28 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:44:04 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:44:05 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:44:16 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:44:27 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:44:49 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:45:23 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:54 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:56 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:57 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:58 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:58 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:59 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:46:59 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:47:07 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:47:15 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:47:26 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:47:38 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-07 19:51:25 Notice: Notice (8): Undefined variable: time in [/home/speedy/www/cake/app/View/Sitemaps/index.ctp, line 11]
+Trace:
+include - APP/View/Sitemaps/index.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
